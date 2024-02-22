@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "rue Joliot-Curie",
+    "name": "CentraleSupélec - Batiment Bréguet"
+  },
+  {
+    "id": 2,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "rue Joliot-Curie",
+    "name": "PÃ´le Universitaire d'Ingénierie d'Orsay - Université Paris-Saclay (Bat. 640)"
+  },
+  {
+    "id": 3,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "Laboratoire Génie électrique et électronique de Paris"
+  },
+  {
+    "id": 4,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "Institut Polytechnique de Paris"
+  },
+  {
+    "id": 5,  "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Michel Magat",
+    "name": "Institut de Mathématique Paris-Saclay (307)"
+  },
+  {
+    "id": 6,
+    "addr_city": "Orsay",
+    "addr_postcode": 91405,
+    "addr_street": "Rue du Belvédère",
+    "name": "Laboratoire d'Informatique pour la Mécanique et les Sciences de l'Ingénieur 507"
+  },
+  {
+    "id": 7,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue John Von Neumann",
+    "name": "IDRIS de l'université Paris-Saclay (Batiment 506)"
+  },
+  {
+    "id": 8,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Henri Becquerel",
+    "name": "Batiment 107"
+  },
+  {
+    "id": 9,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Jean Teillac",
+    "name": "Accélérateur Linéaire et Tandem d'Orsay (ALTO) - Batiment 109"
+  },
+  {
+    "id": 10,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Doyen Georges Poitou",
+    "name": "Bibliothèque Universitaire - Batiment 407"
+  },
+  {
+    "id": 11,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Batiment 452 - Infirmerie"
+  },
+  {
+    "id": 12,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Doyen André Guinier",
+    "name": "Batiment 362"
+  },
+  {
+    "id": 13,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Allée des Découvertes",
+    "name": "Batiment 309"
+  },
+  {
+    "id": 14,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Gregor Mendel",
+    "name": "Igmors - Batiment 400"
+  },
+  {
+    "id": 15,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Doyen Georges Poitou",
+    "name": "Institut de Chimie Moleculaire et des Matériaux d'Orsay (Icmmo) - Batiment 410"
+  },
+  {
+    "id": 16,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Doyen André Guinier",
+    "name": "Batiment 338"
+  },
+  {
+    "id": 17,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Gregor Mendel",
+    "name": "Batiment 403"
+  },
+  {
+    "id": 18,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Allée des Découvertes",
+    "name": "Batiment 409"
+  },
+  {
+    "id": 19,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Doyen Georges Poitou",
+    "name": "ICCMO - Batiment 420"
+  },
+    {
+    "id": 20,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Avenue Irène et Frédéric Joliot-Curie",
+    "name": "Batiment 100a"
+  },
+  {
+    "id": 21,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Avenue Irène et Frédéric Joliot-Curie",
+    "name": "Batiment 101 - Centre de protonthérapie"
+  },
+  {
+    "id": 22,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Avenue Irène et Frédéric Joliot-Curie",
+    "name": "Institut de Physique Nucléaire - Batiment 100m"
+  },
+  {
+    "id": 23,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Promenade de l'Yvette",
+    "name": "Batiment 310"
+  },
+  {
+    "id": 24,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Avenue Jean Perrin",
+    "name": "Batiment 351 : DAJI, DARI, Fondation Paris-Saclay Université"
+  },
+  {
+    "id": 25,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Michel Magat",
+    "name": "Batiment 349"
+  },
+  {
+    "id": 26,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Batiment 311 Bis"
+  },
+  {
+    "id": 27,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Avenue Jean Perrin",
+    "name": "Service du Doyen - Batiment 301"
+  },
+  {
+    "id": 28,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "La Présidence - Batiment 300"
+  },
+  {
+    "id": 29,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Hector Berlioz",
+    "name": "Résidence Crous de la Pacaterie - Batiment 499"
+  },
+  {
+    "id": 30,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Batiment 302"
+  },
+  {
+    "id": 31,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue de la Pacaterie",
+    "name": "Batiment 303 Bis"
+  },
+  {
+    "id": 32,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Avenue de Lattre de Tassigny",
+    "name": "Batiment 304"
+  },
+  {
+    "id": 33,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Hector Berlioz",
+    "name": "Batiment 498"
+  },
+  {
+    "id": 34,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Batiment 305"
+  },
+  {
+    "id": 35,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Claude Bernard",
+    "name": "Batiment 450"
+  },
+  {
+    "id": 36,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Claude Bernard",
+    "name": "Restaurant universitaire Les Cèdres - Batiment 406"
+  },
+  {
+    "id": 37,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Claude Bernard",
+    "name": "Batiment 447"
+  },
+  {
+    "id": 38,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Doyen Georges Poitou",
+    "name": "Batiment 425"
+  },
+  {
+    "id": 39,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Université Paris-Saclay - Batiment 460"
+  },
+  {
+    "id": 40,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Batiment 470"
+  },
+  {
+    "id": 41,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Nicolas Appert",
+    "name": "Laboratoire de Physique des Solides, CNRS UMR 8502"
+  },
+  {
+    "id": 42,  "addr_city": "Orsay",
+    "addr_postcode": 91190,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "IUT d'Orsay - Batiment 601"
+  },
+  {
+    "id": 43,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Louis de Broglie",
+    "name": "Polytech Paris-Saclay - Batiment 620"
+  },
+  {
+    "id": 44,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Batiment 302"
+  },
+  {
+    "id": 45,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Chateau",
+    "name": "Maison des études - Batiment 311"
+  },
+  {
+    "id": 46,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue du Doyen André Guinier",
+    "name": "Igmors - Batiments 360 et 361"    
+  },
+  {
+    "id": 47,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91192,
+    "addr_street": "Avenue des Sciences",
+    "name": "Laboratoire de recherche en informatique - Batiment 650"
+  },
+  {
+    "id": 48,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Avenue des Sciences",
+    "name": "DIGITEO-Moulon - Batiment 660"
+  },
+  {
+    "id": 49,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91192,
+    "addr_street": "Avenue des Sciences",
+    "name": "école Doctorale des Sciences et Technologies de l'Information et de la Communication - Batiment 650 Ada Lovelace"
+  },
+  {
+    "id": 50,
+    "addr_city": "Orsay",
+    "addr_postcode": 91400,
+    "addr_street": "Rue Claude Bernard",
+    "name": "Institut de Biologie Animale, Intégrative et Cellulaire - Batiments 440 et 443 bis"
+  },
+  {
+    "id": 51,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Ferme du Moulon",
+    "name": "GQE Le Moulon - INRAE Université Paris Saclay"
+  },
+  {
+    "id": 52,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "Lieu de Vie de l'université Paris-Saclay"
+  },
+  {
+    "id": 53,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91192,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "CentraleSupélec - Batiment Gustave Eiffel"
+  },
+  {
+    "id": 54,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91192,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "CentraleSupélec - Batiment Francis Bouygues"
+  },
+  {
+    "id": 55,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Rue Joliot Curie",
+    "name": "Résidence Universitaire émilie du Chatelet"
+  },
+  {
+    "id": 56,
+    "addr_city": "Orsay",
+    "addr_postcode": 91405,
+    "addr_street": "Rue Louis de Broglie",
+    "name": "Batiment h-bar (625) de l'université Paris-Saclay"
+  },
+  {
+    "id": 57,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Avenue des Sciences",
+    "name": "Batiment Est de l'école Normale Supérieure"
+  },
+  {
+    "id": 58,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Avenue des Sciences",
+    "name": "Batiment Sud-Est de l'école Normale Supérieure"
+  },
+  {
+    "id": 59,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Avenue des Sciences",
+    "name": "Batiment Sud-Ouest de l'école Normale Supérieure"
+  },
+  {
+    "id": 60,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Avenue des Sciences",
+    "name": "Batiment Ouest de l'école Normale Supérieure"
+  },
+  {
+    "id": 61,
+    "addr_city": "Gif-sur-Yvette",
+    "addr_postcode": 91190,
+    "addr_street": "Avenue des Sciences",
+    "name": "école Normale Supérieure Paris-Saclay"
+  },
+  {
+    "id": 62,
+    "addr_city": "Orsay",
+    "addr_postcode": 91190,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "IUT d'Orsay - Batiment 608"
+  },
+  {
+    "id": 63,
+    "addr_city": "Orsay",
+    "addr_postcode": 91190,
+    "addr_street": "Rue Joliot-Curie",
+    "name": "IUT d'Orsay - Batiment 610"
+
+  }
+]
